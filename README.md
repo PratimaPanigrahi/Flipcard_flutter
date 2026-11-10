@@ -91,7 +91,7 @@ flutter build apk --release
 ### 3. 🧠 Game End Page [Screenshot]
 - Shows final **score**
 - Includes a **“Back to Menu”** option.
-<img src="a/images/final.png" alt="Game End Page" width="340" height="400"/>
+<img src="assets/images/final.png" alt="Game End Page" width="340" height="400"/>
 
 
 ## 📁 File Structure
